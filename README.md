@@ -6,4 +6,5 @@ The system consists of 4 main components as shown in the above graphical represe
 
 ![image](https://user-images.githubusercontent.com/76457616/120044404-15a2d480-c00e-11eb-8375-a2775c41807a.png)
 
+# Related Projects
 Chaincode Project : https://github.com/SachiHarshitha/HyperledgerFabric-UWB-ChainCode
